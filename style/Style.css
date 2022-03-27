@@ -8,7 +8,7 @@ main{
 
 body {
   font-family: Verdana;
-  background-color: black;
+  background-color: rgb(66, 113, 46);
   color: white;
 }
 
@@ -23,7 +23,7 @@ a{
 }
 
 nav{
-  background-color: grey;
+  background-color: rgb(255, 255, 255);
   padding: 5px;
   border: 1px solid green;
   border-radius: 5px;
@@ -31,12 +31,12 @@ nav{
 
 nav ul li {
   list-style-type: none;
-  background-color: #b2b2b2;
+  background-color: #cecece;
   display: inline;
   padding: 15px;
 }
 nav ul li a {
-  color: white;
+  color: rgb(6, 5, 5);
   text-decoration: none;
 }
 nav ul li:hover {background-color: #cb92f1;}
